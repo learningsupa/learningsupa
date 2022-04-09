@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@learningsupa](https://twitter.com/learingsupa)
+- 👋 Hi, I’m [@learningsupa](https://twitter.com/learningsupa)
 - 👀 I’m interested in programming languages
 - 🌱 I’m currently learning Haskell
 - 💞️ I’m looking to collaborate on every single code int the world
